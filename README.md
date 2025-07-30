@@ -17,33 +17,105 @@
 ## 🚀 About Me
 
 ```typescript
-interface dev_lead {
+interface DeveloperProfile {
   name: string;
   role: string[];
-  experience: Record<string, string>;
+  experience: Record<string, ExperienceLevel>;
   current_focus: string[];
   leadership_style: string;
   technical_vision: string;
+  soft_skills: string[];
+  achievements: Achievement[];
 }
 
-const patcharapon: dev_lead = {
+interface ExperienceLevel {
+  years: string;
+  proficiency: 'Beginner' | 'Intermediate' | 'Advanced' | 'Expert';
+  projects: number;
+  description: string;
+}
+
+interface Achievement {
+  title: string;
+  description: string;
+  impact: string;
+}
+
+const patcharapon: DeveloperProfile = {
   name: "Patcharapon Chankhao",
   role: ["Full Stack Developer", "Dev Lead", "DevOps Engineer"],
   experience: {
-    "Node.js": "1+ years",
-    "React.js & TypeScript": "1+ years", 
-    "Python": "1+ years",
-    "MongoDB": "1+ years",
-    "DevOps": "1+ years"
+    "Node.js": {
+      years: "2+ years",
+      proficiency: "Advanced",
+      projects: 8,
+      description: "Building scalable APIs and microservices"
+    },
+    "React.js & TypeScript": {
+      years: "2+ years", 
+      proficiency: "Advanced",
+      projects: 12,
+      description: "Creating responsive and maintainable UIs"
+    },
+    "Python": {
+      years: "1+ years",
+      proficiency: "Intermediate",
+      projects: 5,
+      description: "Automation scripts and data processing"
+    },
+    "MongoDB": {
+      years: "2+ years",
+      proficiency: "Advanced",
+      projects: 10,
+      description: "Database design and optimization"
+    },
+    "DevOps": {
+      years: "1+ years",
+      proficiency: "Intermediate",
+      projects: 6,
+      description: "CI/CD pipelines and infrastructure"
+    }
   },
   current_focus: [
     "Team Leadership & Mentoring",
     "System Architecture Design", 
     "DevOps Culture Implementation",
-    "Full Stack Development"
+    "Full Stack Development",
+    "Performance Optimization"
   ],
   leadership_style: "Collaborative, Technical, Growth-Oriented",
-  technical_vision: "Scalable, maintainable, and efficient solutions"
+  technical_vision: "Scalable, maintainable, and efficient solutions",
+  soft_skills: [
+    "Technical Communication",
+    "Problem Solving",
+    "Team Collaboration",
+    "Code Review Excellence",
+    "Project Planning"
+  ],
+  achievements: [
+    {
+      title: "Led 5-person development team",
+      description: "Successfully managed and mentored junior developers",
+      impact: "Improved team productivity by 30%"
+    },
+    {
+      title: "Built 15+ production APIs",
+      description: "Designed and implemented scalable backend services",
+      impact: "99.9% uptime with 10k+ requests/minute handling"
+    },
+    {
+      title: "Implemented DevOps practices",
+      description: "Established CI/CD pipelines and monitoring",
+      impact: "Reduced deployment time by 60%"
+    }
+  ]
+};
+
+// 🎯 Professional Development Goals
+const careerGoals = {
+  shortTerm: ["Master cloud architecture", "Improve system design skills"],
+  longTerm: ["Become a technical architect", "Lead larger engineering teams"],
+  continuous: ["Stay updated with latest technologies", "Contribute to open source"]
 };
 ```
 
@@ -73,7 +145,7 @@ const patcharapon: dev_lead = {
 | 💚 **Node.js** | ⚛️ **React** | 🔷 **TypeScript** | 🐍 **Python** |
 |:---:|:---:|:---:|:---:|
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&animation=pulse) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&animation=spin) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| `Server-side Excellence` | `UI/UX Innovation` | `Type Safety First` | `AI & Automation` |
+| `Advanced Level` | `Advanced Level` | `Advanced Level` | `Intermediate Level` |
 
 </div>
 
@@ -180,11 +252,13 @@ graph LR
         F[System Architecture]
         G[Team Leadership]
         H[DevOps Culture]
+        I[Performance Optimization]
     end
     
     D --> F
     D --> G
     D --> H
+    C --> I
 ```
 
 <br>
@@ -194,11 +268,11 @@ graph LR
 
 | Technology | Experience | Proficiency | Projects |
 |:---:|:---:|:---:|:---:|
-| ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | `1+ years` | `🔥🔥🔥🔥⚪` | `15+ APIs` |
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | `1+ years` | `🔥🔥🔥🔥⚪` | `20+ Apps` |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | `1+ years` | `🔥🔥🔥🔥⚪` | `10+ Projects` |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | `1+ years` | `🔥🔥🔥🔥⚪` | `8+ Scripts` |
-| ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | `1+ years` | `🔥🔥🔥🔥⚪` | `12+ DBs` |
+| ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | `2+ years` | `🔥🔥🔥🔥⚪` | `8+ APIs` |
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | `2+ years` | `🔥🔥🔥🔥⚪` | `12+ Apps` |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | `2+ years` | `🔥🔥🔥🔥⚪` | `10+ Projects` |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | `1+ years` | `🔥🔥🔥⚪⚪` | `5+ Scripts` |
+| ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | `2+ years` | `🔥🔥🔥🔥⚪` | `10+ DBs` |
 
 </div>
 
@@ -212,22 +286,26 @@ graph LR
 <div align="center">
 
 ```typescript
-interface technical_achievements {
+interface TechnicalAchievements {
   apis_built: number;
   uptime_percentage: number;
   requests_per_minute: number;
   team_size: number;
   code_reviews: number;
   mentored_developers: number;
+  deployment_improvement: string;
+  productivity_gain: string;
 }
 
-const achievements: technical_achievements = {
+const achievements: TechnicalAchievements = {
   apis_built: 15,
   uptime_percentage: 99.9,
   requests_per_minute: 10000,
   team_size: 5,
   code_reviews: 500,
-  mentored_developers: 10
+  mentored_developers: 10,
+  deployment_improvement: "60% faster deployments",
+  productivity_gain: "30% team productivity increase"
 };
 
 // 🎯 Always striving for excellence!
@@ -281,10 +359,10 @@ console.log("Building the future, one commit at a time! 🚀");
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🚀 Enterprise API Gateway</h3>
+        <h3 align="center">🚀 E-commerce API Platform</h3>
         <div align="center">
-          <a href="https://github.com/your-username/api-gateway" target="_blank">
-            <img src="https://github-readme-stats-plum-alpha-41.vercel.app/api/pin/?username=PHATCHARAPHON63&repo=api-gateway&theme=tokyonight&hide_border=true" />
+          <a href="https://github.com/PHATCHARAPHON63/ecommerce-api" target="_blank">
+            <img src="https://github-readme-stats-plum-alpha-41.vercel.app/api/pin/?username=PHATCHARAPHON63&repo=ecommerce-api&theme=tokyonight&hide_border=true" />
           </a>
           <br><br>
           <p>
@@ -292,22 +370,22 @@ console.log("Building the future, one commit at a time! 🚀");
             <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
             <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
           </p>
-          <p><strong>Scalable microservices architecture</strong><br>99.9% uptime, handles 10k+ requests/min</p>
+          <p><strong>RESTful API with authentication & payment integration</strong><br>99.9% uptime, handles 5k+ requests/min</p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🌟 Real-time Collaboration Platform</h3>
+        <h3 align="center">🌟 Task Management App</h3>
         <div align="center">
-          <a href="https://github.com/your-username/collab-platform" target="_blank">
-            <img src="https://github-readme-stats-plum-alpha-41.vercel.app/api/pin/?username=PHATCHARAPHON63&repo=collab-platform&theme=tokyonight&hide_border=true" />
+          <a href="https://github.com/PHATCHARAPHON63/task-manager" target="_blank">
+            <img src="https://github-readme-stats-plum-alpha-41.vercel.app/api/pin/?username=PHATCHARAPHON63&repo=task-manager&theme=tokyonight&hide_border=true" />
           </a>
           <br><br>
           <p>
             <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
             <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-            <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+            <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
           </p>
-          <p><strong>WebSocket-based real-time communication</strong><br>Improved team productivity by 40%</p>
+          <p><strong>Full-stack task management with real-time updates</strong><br>Improved productivity by 25%</p>
         </div>
       </td>
     </tr>
@@ -319,35 +397,121 @@ console.log("Building the future, one commit at a time! 🚀");
 ### 💻 Code Architecture Examples
 
 ```typescript
-// Scalable microservices architecture
-interface api_gateway {
+// Scalable API architecture with middleware pattern
+interface ApiGateway {
   services: string[];
+  middleware: Middleware[];
   load_balancer: string;
-  authentication: string;
-  rate_limiting: boolean;
-  monitoring: string;
+  authentication: AuthStrategy;
+  rate_limiting: RateLimitConfig;
+  monitoring: MonitoringConfig;
 }
 
-const architecture: api_gateway = {
-  services: ["user-service", "payment-service", "notification-service"],
+interface Middleware {
+  name: string;
+  function: (req: Request, res: Response, next: NextFunction) => void;
+  order: number;
+}
+
+interface AuthStrategy {
+  type: 'JWT' | 'OAuth2' | 'Session';
+  secret: string;
+  expiresIn: string;
+}
+
+interface RateLimitConfig {
+  windowMs: number;
+  maxRequests: number;
+  message: string;
+}
+
+interface MonitoringConfig {
+  metrics: string[];
+  logging: boolean;
+  alerting: boolean;
+}
+
+const apiArchitecture: ApiGateway = {
+  services: ["user-service", "product-service", "order-service"],
+  middleware: [
+    { name: "cors", function: cors(), order: 1 },
+    { name: "helmet", function: helmet(), order: 2 },
+    { name: "rateLimit", function: rateLimit(), order: 3 }
+  ],
   load_balancer: "nginx",
-  authentication: "JWT + OAuth2",
-  rate_limiting: true,
-  monitoring: "prometheus + grafana"
+  authentication: {
+    type: "JWT",
+    secret: process.env.JWT_SECRET,
+    expiresIn: "24h"
+  },
+  rate_limiting: {
+    windowMs: 15 * 60 * 1000, // 15 minutes
+    maxRequests: 100,
+    message: "Too many requests from this IP"
+  },
+  monitoring: {
+    metrics: ["response_time", "error_rate", "throughput"],
+    logging: true,
+    alerting: true
+  }
 };
 ```
 
 ```python
-# Real-time collaboration system
-class collaboration_manager:
-    def __init__(self):
-        self.active_sessions: Dict[str, Session] = {}
-        self.websocket_connections: List[WebSocket] = []
+# Database connection manager with connection pooling
+from typing import Dict, Optional
+import asyncio
+from motor.motor_asyncio import AsyncIOMotorClient
+from pymongo.errors import ConnectionFailure
+
+class DatabaseManager:
+    def __init__(self, connection_string: str, max_pool_size: int = 100):
+        self.client: Optional[AsyncIOMotorClient] = None
+        self.connection_string = connection_string
+        self.max_pool_size = max_pool_size
+        self._is_connected = False
     
-    async def broadcast_changes(self, room_id: str, data: dict) -> None:
-        """Broadcast real-time changes to all connected clients"""
-        for connection in self.get_room_connections(room_id):
-            await connection.send_json(data)
+    async def connect(self) -> None:
+        """Establish database connection with connection pooling"""
+        try:
+            self.client = AsyncIOMotorClient(
+                self.connection_string,
+                maxPoolSize=self.max_pool_size,
+                serverSelectionTimeoutMS=5000
+            )
+            # Test connection
+            await self.client.admin.command('ping')
+            self._is_connected = True
+            print("✅ Database connected successfully")
+        except ConnectionFailure as e:
+            print(f"❌ Database connection failed: {e}")
+            raise
+    
+    async def get_collection(self, database: str, collection: str):
+        """Get database collection with error handling"""
+        if not self._is_connected:
+            await self.connect()
+        return self.client[database][collection]
+    
+    async def close(self) -> None:
+        """Close database connection"""
+        if self.client:
+            self.client.close()
+            self._is_connected = False
+            print("🔌 Database connection closed")
+
+# Usage example
+async def main():
+    db_manager = DatabaseManager("mongodb://localhost:27017")
+    await db_manager.connect()
+    
+    collection = await db_manager.get_collection("myapp", "users")
+    # Perform database operations...
+    
+    await db_manager.close()
+
+if __name__ == "__main__":
+    asyncio.run(main())
 ```
 
 <br>
@@ -376,6 +540,12 @@ Team Development:
   code_reviews: "Architecture patterns & performance optimization"
   knowledge_sharing: "Weekly tech talks & pair programming"
   career_growth: "Individual development plans & skill mapping"
+  
+Management Style:
+  communication: "Open and transparent"
+  decision_making: "Data-driven with team input"
+  conflict_resolution: "Constructive feedback and mediation"
+  performance_management: "Regular 1-on-1s and goal setting"
 ```
 
 <br>
@@ -395,6 +565,7 @@ Team Development:
 - 🚀 **Cloud Architecture** - AWS, Serverless, Infrastructure as Code
 - 📊 **Performance Engineering** - Load testing, optimization strategies
 - 🎯 **Technical Leadership** - Engineering management, team scaling
+- 🔒 **Security Best Practices** - OWASP, secure coding practices
 
 <br>
 
