@@ -85,8 +85,8 @@ const patcharapon: DevLead = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-plum-alpha-41.vercel.app /api?username=PHATCHARAPHON63&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-plum-alpha-41.vercel.app /api/top-langs/?username=PHATCHARAPHON63&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-plum-alpha-41.vercel.app/api?username=PHATCHARAPHON63&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-plum-alpha-41.vercel.app/api/top-langs/?username=PHATCHARAPHON63&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -114,7 +114,7 @@ const patcharapon: DevLead = {
         <h3 align="center">🚀 Enterprise API Gateway</h3>
         <div align="center">
           <a href="https://github.com/your-username/api-gateway" target="_blank">
-            <img src="https://github-readme-stats-plum-alpha-41.vercel.app /api/pin/?username=PHATCHARAPHON63&repo=api-gateway&theme=tokyonight&hide_border=true" />
+            <img src="https://github-readme-stats-plum-alpha-41.vercel.app/api/pin/?username=PHATCHARAPHON63&repo=api-gateway&theme=tokyonight&hide_border=true" />
           </a>
           <br><br>
           <p>
@@ -129,7 +129,7 @@ const patcharapon: DevLead = {
         <h3 align="center">🌟 Real-time Collaboration Platform</h3>
         <div align="center">
           <a href="https://github.com/your-username/collab-platform" target="_blank">
-            <img src="https://github-readme-stats-plum-alpha-41.vercel.app /api/pin/?username=PHATCHARAPHON63&repo=collab-platform&theme=tokyonight&hide_border=true" />
+            <img src="https://github-readme-stats-plum-alpha-41.vercel.app/api/pin/?username=PHATCHARAPHON63&repo=collab-platform&theme=tokyonight&hide_border=true" />
           </a>
           <br><br>
           <p>
