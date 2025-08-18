@@ -46,13 +46,13 @@ const patcharapon: DeveloperProfile = {
   role: ["Full Stack Developer", "Dev Lead", "DevOps Engineer"],
   experience: {
     "Node.js": {
-      years: "2+ years",
+      years: "1+ years",
       proficiency: "Advanced",
       projects: 8,
       description: "Building scalable APIs and microservices"
     },
     "React.js & TypeScript": {
-      years: "2+ years", 
+      years: "1+ years", 
       proficiency: "Advanced",
       projects: 12,
       description: "Creating responsive and maintainable UIs"
@@ -268,11 +268,11 @@ graph LR
 
 | Technology | Experience | Proficiency | Projects |
 |:---:|:---:|:---:|:---:|
-| ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | `2+ years` | `🔥🔥🔥🔥⚪` | `8+ APIs` |
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | `2+ years` | `🔥🔥🔥🔥⚪` | `12+ Apps` |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | `2+ years` | `🔥🔥🔥🔥⚪` | `10+ Projects` |
+| ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | `1+ years` | `🔥🔥🔥🔥⚪` | `8+ APIs` |
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | `1+ years` | `🔥🔥🔥🔥⚪` | `12+ Apps` |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | `1+ years` | `🔥🔥🔥🔥⚪` | `10+ Projects` |
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | `1+ years` | `🔥🔥🔥⚪⚪` | `5+ Scripts` |
-| ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | `2+ years` | `🔥🔥🔥🔥⚪` | `10+ DBs` |
+| ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | `1+ years` | `🔥🔥🔥🔥⚪` | `10+ DBs` |
 
 </div>
 
@@ -569,28 +569,16 @@ Management Style:
 
 <br>
 
-## 📝 Knowledge Sharing & Community
-
-<!-- BLOG-POST-LIST:START -->
-- [🚀 Building Scalable Node.js Applications: A Dev Lead's Perspective](https://your-blog.com/scalable-nodejs)
-- [⚡ DevOps Best Practices for Agile Teams](https://your-blog.com/devops-agile-teams)
-- [🍃 MongoDB Performance Optimization in Production](https://your-blog.com/mongodb-optimization)
-- [👥 Leading Remote Development Teams: Lessons Learned](https://your-blog.com/remote-team-leadership)
-- [🔧 TypeScript Best Practices for Large-Scale Applications](https://your-blog.com/typescript-best-practices)
-<!-- BLOG-POST-LIST:END -->
-
-<br>
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
   <a href="https://your-portfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/phactcharaphon-chankhao-292320327">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="phatcharaphon.office@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/PHATCHARAPHON63">
