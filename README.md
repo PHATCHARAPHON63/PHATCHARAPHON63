@@ -275,45 +275,6 @@ graph LR
 | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | `1+ years` | `🔥🔥🔥🔥⚪` | `10+ DBs` |
 
 </div>
-
-<br>
-
-### 🏆 Technical Achievements
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1200&color=FBBF24&center=true&vCenter=true&multiline=true&width=900&height=100&lines=🎖️+Built+15%2B+Production+APIs;⚡+99.9%25+Uptime+Achievement;🚀+10k%2B+Requests%2FMinute+Handling;👥+Leading+5%2B+Developer+Team" alt="Achievements" />
-</div>
-
-<div align="center">
-
-```typescript
-interface TechnicalAchievements {
-  apis_built: number;
-  uptime_percentage: number;
-  requests_per_minute: number;
-  team_size: number;
-  code_reviews: number;
-  mentored_developers: number;
-  deployment_improvement: string;
-  productivity_gain: string;
-}
-
-const achievements: TechnicalAchievements = {
-  apis_built: 15,
-  uptime_percentage: 99.9,
-  requests_per_minute: 10000,
-  team_size: 5,
-  code_reviews: 500,
-  mentored_developers: 10,
-  deployment_improvement: "60% faster deployments",
-  productivity_gain: "30% team productivity increase"
-};
-
-// 🎯 Always striving for excellence!
-console.log("Building the future, one commit at a time! 🚀");
-```
-
-</div>
-
 <br>
 
 ---
