@@ -1,15 +1,13 @@
 # 👋 Hello, I'm Patcharapon Chankhao
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%26+Dev+Lead;Node.js+%7C+React+%7C+Python+%7C+DevOps;Building+scalable+solutions+with+modern+tech;Leading+teams+%26+architecting+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Node.js+%7C+React+%7C+Python;Building+scalable+solutions+with+modern+tech;Architecting+robust+systems" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Dev%20Lead-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Dev Lead" />
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-06B6D4?style=for-the-badge&logo=javascript&logoColor=white" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/DevOps%20Engineer-10B981?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps" />
 </div>
 
 <br>
@@ -22,7 +20,7 @@ interface DeveloperProfile {
   role: string[];
   experience: Record<string, ExperienceLevel>;
   current_focus: string[];
-  leadership_style: string;
+  work_style: string;
   technical_vision: string;
   soft_skills: string[];
   achievements: Achievement[];
@@ -43,7 +41,7 @@ interface Achievement {
 
 const patcharapon: DeveloperProfile = {
   name: "Patcharapon Chankhao",
-  role: ["Full Stack Developer", "Dev Lead", "DevOps Engineer"],
+  role: ["Full Stack Developer"],
   experience: {
     "Node.js": {
       years: "1+ years",
@@ -68,22 +66,14 @@ const patcharapon: DeveloperProfile = {
       proficiency: "Advanced",
       projects: 10,
       description: "Database design and optimization"
-    },
-    "DevOps": {
-      years: "1+ years",
-      proficiency: "Intermediate",
-      projects: 6,
-      description: "CI/CD pipelines and infrastructure"
     }
   },
   current_focus: [
-    "Team Leadership & Mentoring",
     "System Architecture Design", 
-    "DevOps Culture Implementation",
     "Full Stack Development",
     "Performance Optimization"
   ],
-  leadership_style: "Collaborative, Technical, Growth-Oriented",
+  work_style: "Collaborative, Technical, Quality-Focused",
   technical_vision: "Scalable, maintainable, and efficient solutions",
   soft_skills: [
     "Technical Communication",
@@ -94,19 +84,9 @@ const patcharapon: DeveloperProfile = {
   ],
   achievements: [
     {
-      title: "Led 5-person development team",
-      description: "Successfully managed and mentored junior developers",
-      impact: "Improved team productivity by 30%"
-    },
-    {
       title: "Built 15+ production APIs",
       description: "Designed and implemented scalable backend services",
       impact: "99.9% uptime with 10k+ requests/minute handling"
-    },
-    {
-      title: "Implemented DevOps practices",
-      description: "Established CI/CD pipelines and monitoring",
-      impact: "Reduced deployment time by 60%"
     }
   ]
 };
@@ -114,7 +94,7 @@ const patcharapon: DeveloperProfile = {
 // 🎯 Professional Development Goals
 const careerGoals = {
   shortTerm: ["Master cloud architecture", "Improve system design skills"],
-  longTerm: ["Become a technical architect", "Lead larger engineering teams"],
+  longTerm: ["Become a technical architect", "Build innovative applications"],
   continuous: ["Stay updated with latest technologies", "Contribute to open source"]
 };
 ```
@@ -214,31 +194,10 @@ const careerGoals = {
 
 <br>
 
-### 🔧 DevOps & Tools
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=2496ED&center=true&vCenter=true&width=700&lines=Automation+%26+Deployment;Docker+%7C+CI%2FCD+%7C+Cloud+Infrastructure;Modern+DevOps+Practices" alt="DevOps Skills" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,nginx,aws,vercel&theme=dark" alt="DevOps Technologies" />
-</div>
-
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-</div>
-
-<br>
 
 ### 📊 Skill Progression
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Advanced+Level+Technologies;💡+Currently+Mastering+New+Skills;⭐+Always+Learning+%26+Growing;🎯+Leading+Technical+Innovation" alt="Skill Level" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Advanced+Level+Technologies;💡+Currently+Mastering+New+Skills;⭐+Always+Learning+%26+Growing;🎯+Driving+Technical+Innovation" alt="Skill Level" />
 </div>
 
 ```mermaid
@@ -250,14 +209,10 @@ graph LR
     
     subgraph "Current Focus"
         F[System Architecture]
-        G[Team Leadership]
-        H[DevOps Culture]
         I[Performance Optimization]
     end
     
     D --> F
-    D --> G
-    D --> H
     C --> I
 ```
 
@@ -280,7 +235,7 @@ graph LR
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=10B981&center=true&vCenter=true&width=800&lines=💡+Innovation+Through+Technology;🚀+Scaling+Solutions+for+Tomorrow;⚡+Leading+with+Technical+Excellence" alt="Tech Vision" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=10B981&center=true&vCenter=true&width=800&lines=💡+Innovation+Through+Technology;🚀+Scaling+Solutions+for+Tomorrow;⚡+Building+with+Technical+Excellence" alt="Tech Vision" />
 </div>
 
 ## 📊 GitHub Statistics
@@ -298,7 +253,7 @@ graph LR
 
 <br>
 
-## 🏆 Leadership & Technical Achievements
+## 🏆 Technical Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PHATCHARAPHON63&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies" />
@@ -357,39 +312,7 @@ graph LR
 
 <br>
 
-## 👥 Leadership & Management Excellence
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Team%20Size-5+%20Developers-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Leadership%20Style-Servant%20Leader-06B6D4?style=for-the-badge&logo=people&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Technical%20Excellence-10B981?style=for-the-badge&logo=target&logoColor=white" />
-</div>
-
-<br>
-
-```yaml
-Leadership Philosophy:
-  approach: "Technical Leadership with Human-Centered Management"
-  core_values:
-    - "Code Quality & Best Practices"
-    - "Continuous Learning & Growth"
-    - "Collaborative Decision Making"
-    - "Innovation & Experimentation"
-  
-Team Development:
-  mentoring: "Junior to Mid-level developers"
-  code_reviews: "Architecture patterns & performance optimization"
-  knowledge_sharing: "Weekly tech talks & pair programming"
-  career_growth: "Individual development plans & skill mapping"
-  
-Management Style:
-  communication: "Open and transparent"
-  decision_making: "Data-driven with team input"
-  conflict_resolution: "Constructive feedback and mediation"
-  performance_management: "Regular 1-on-1s and goal setting"
-```
-
-<br>
 
 ## 🎓 Professional Development & Expertise
 
@@ -405,7 +328,6 @@ Management Style:
 - 🏗️ **System Design Patterns** - Microservices, Event-Driven Architecture
 - 🚀 **Cloud Architecture** - AWS, Serverless, Infrastructure as Code
 - 📊 **Performance Engineering** - Load testing, optimization strategies
-- 🎯 **Technical Leadership** - Engineering management, team scaling
 - 🔒 **Security Best Practices** - OWASP, secure coding practices
 
 <br>
@@ -435,8 +357,6 @@ Management Style:
   <h3>💼 Open for Opportunities</h3>
   <p>
     <img src="https://img.shields.io/badge/Available%20For-Full%20Stack%20Development-6366F1?style=flat-square" />
-    <img src="https://img.shields.io/badge/Available%20For-Technical%20Leadership-8B5CF6?style=flat-square" />
-    <img src="https://img.shields.io/badge/Available%20For-DevOps%20Consulting-06B6D4?style=flat-square" />
     <img src="https://img.shields.io/badge/Available%20For-System%20Architecture-10B981?style=flat-square" />
   </p>
 </div>
@@ -451,8 +371,8 @@ Management Style:
 
 <div align="center">
   
-**💡 "Great leaders don't create followers, they create more leaders."**  
-*Building tomorrow's tech teams today.*
+**💡 "Innovation through code, building solutions that matter."**  
+*Creating tomorrow's applications today.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PHATCHARAPHON63&color=6366F1&style=flat-square&label=Profile+Views)
 ![GitHub Followers](https://img.shields.io/github/followers/PHATCHARAPHON63?color=8B5CF6&style=flat-square&label=Followers)
