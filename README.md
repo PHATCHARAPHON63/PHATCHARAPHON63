@@ -225,7 +225,6 @@ graph LR
 |:---:|:---:|:---:|:---:|
 | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | `1+ years` | `🔥🔥🔥🔥⚪` | `8+ APIs` |
 | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | `1+ years` | `🔥🔥🔥🔥⚪` | `12+ Apps` |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | `1+ years` | `🔥🔥🔥🔥⚪` | `10+ Projects` |
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | `1+ years` | `🔥🔥🔥⚪⚪` | `5+ Scripts` |
 | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | `1+ years` | `🔥🔥🔥🔥⚪` | `10+ DBs` |
 
