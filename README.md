@@ -1,21 +1,21 @@
 # 👋 Hello, I'm Patcharapon Chankhao
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Node.js+%7C+React+%7C+Python;Building+scalable+solutions+with+modern+tech;Architecting+robust+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;Node.js+%7C+React+%7C+Python;Building+scalable+solutions+with+modern+tech;Architecting+robust+systems" alt="Typing SVG" />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-06B6D4?style=for-the-badge&logo=javascript&logoColor=white" alt="Full Stack" />
 </div>
 
-<br>
+<br/>
 
 ## 🚀 About Me
 
 I'm **Patcharapon Chankhao**, a passionate **Full Stack Developer** who loves turning ideas into scalable, maintainable software.  
-Over the past few years, I've built multiple production-grade systems with **Node.js**, **React (TypeScript)**, and **MongoDB**, focusing on **system architecture**, **performance optimization**, and **developer experience**.
+I build production-grade systems with **Node.js**, **React (TypeScript)**, and **MongoDB**, focusing on **system architecture**, **performance optimization**, and **developer experience**.
 
 ### 💡 What I Do
 - **Backend:** Node.js, Express, MongoDB — building robust APIs and microservices  
@@ -41,11 +41,11 @@ Over the past few years, I've built multiple production-grade systems with **Nod
 </div>
 
 | Technology | Level | Description |
-|-------------|--------|-------------|
+|-------------|------|-------------|
 | **Node.js** | Advanced | Building scalable APIs and microservices |
 | **React + TypeScript** | Advanced | Creating clean, maintainable UIs |
-| **Python** | Intermediate | Data processing and automation scripts |
-| **MongoDB** | Advanced | Schema design, indexing, and optimization |
+| **Python** | Intermediate | Data processing and automation |
+| **MongoDB** | Advanced | Schema design, indexing & optimization |
 
 ---
 
@@ -55,7 +55,7 @@ Over the past few years, I've built multiple production-grade systems with **Nod
 </div>
 
 **Core Stack:** React, Next.js, TypeScript, Tailwind CSS  
-**Focus:** Responsive design, accessibility, and UX consistency  
+**Focus:** Responsive design, accessibility, UX consistency  
 
 ---
 
@@ -65,7 +65,7 @@ Over the past few years, I've built multiple production-grade systems with **Nod
 </div>
 
 **Core Stack:** Node.js, Express, FastAPI, GraphQL  
-**Focus:** RESTful APIs, microservices, and performance optimization  
+**Focus:** RESTful APIs, microservices, performance tuning  
 
 ---
 
@@ -82,11 +82,11 @@ Over the past few years, I've built multiple production-grade systems with **Nod
 ## 🏆 Key Projects & Achievements
 
 | Project | Description | Impact |
-|----------|--------------|---------|
-| **BUU-DMS** | Dormitory Management System for university | Served 1K+ active users daily |
-| **Timesheets System** | Timesheet and ERP-integrated HR system | Boosted internal productivity by 40% |
-| **FinTrack** | Personal finance SaaS platform | 99.9% uptime, high-performance data processing |
-| **Research Integration System** | NRIIS / MMS+ data integration & reporting | Automated research fund workflows |
+|--------|-------------|--------|
+| **BUU-DMS** | Dormitory Management System for university | Served **1K+** daily active users |
+| **Timesheets System** | Timesheet & ERP-integrated HR system | Improved internal productivity by **40%** |
+| **FinTrack** | Personal finance SaaS platform | **99.9% uptime**, high-performance processing |
+| **Research Integration** | NRIIS / MMS+ data integration & reporting | Automated research fund workflows |
 
 ---
 
@@ -106,3 +106,69 @@ graph LR
     
     D --> F
     C --> I
+````
+
+---
+
+## 🌏 Career Vision
+
+To become a **Technical Architect** who designs scalable systems that empower teams and simplify complexity.
+I believe in **clean architecture**, **continuous learning**, and **technical excellence** as the foundation of meaningful innovation.
+
+---
+
+## 📚 Current Learning Journey
+
+* 🏗️ **System Design Patterns** – Microservices & Event-driven architecture
+* 🚀 **Cloud Architecture** – AWS, Serverless, IaC
+* 📊 **Performance Engineering** – Load testing & optimization strategies
+* 🔒 **Security Best Practices** – OWASP, secure coding principles
+
+---
+
+## 🤝 Let’s Connect
+
+<div align="center">
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/phactcharaphon-chankhao-292320327">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:phatcharaphon.office@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/PHATCHARAPHON63">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PHATCHARAPHON63\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PHATCHARAPHON63\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" alt="Footer banner" />
+</div>
+
+<br/>
+
+<div align="center">
+
+> 💡 *"Innovation through code, building solutions that matter."*
+> — Patcharapon Chankhao
+
+![Profile Views](https://komarev.com/ghpvc/?username=PHATCHARAPHON63\&color=6366F1\&style=flat-square\&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/PHATCHARAPHON63?color=8B5CF6\&style=flat-square\&label=Followers)
+
+</div>
+
