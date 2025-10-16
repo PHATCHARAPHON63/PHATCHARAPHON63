@@ -145,20 +145,15 @@ I believe in **clean architecture**, **continuous learning**, and **technical ex
 
 ---
 
-📊 GitHub Statistics
+
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-plum-alpha-41.vercel.app/api?username=PHATCHARAPHON63&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-plum-alpha-41.vercel.app/api/top-langs/?username=PHATCHARAPHON63&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
+  <!-- ✅ สรุป streak การคอมมิต -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PHATCHARAPHON63&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
+
 ---
 
 <div align="center">
